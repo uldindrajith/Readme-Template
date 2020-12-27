@@ -45,7 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About This Project
 
-![Welcome Screen](./images/1.png =100)
+![Welcome Screen](./images/1.png =100x)
 
 This is a Flutter based Android Application Development project done onbehalf of the Mobile Application Development Module. First of all please bare following things in your mind,    
 
