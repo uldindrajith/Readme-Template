@@ -19,7 +19,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About This Project</a>
+      <a href="#about-this-project">About This Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -32,15 +32,12 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About This Project
@@ -102,16 +99,6 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -123,14 +110,10 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License.
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -138,8 +121,6 @@ Distributed under the MIT License.
 My Name - Indrajith
 
 Project Link: [https://github.com/MAD-assignment/Gym-Management-System](https://github.com/MAD-assignment/Gym-Management-System)
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
