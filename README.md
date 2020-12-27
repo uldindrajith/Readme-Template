@@ -45,7 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About This Project
 
-![Welcome Screen](./images/1.jpg)
+![Welcome Screen](./images/1.png)
 
 This is a Flutter based Android Application Development project done onbehalf of the Mobile Application Development Module. First of all please bare following things in your mind,    
 
@@ -53,7 +53,7 @@ This is a Flutter based Android Application Development project done onbehalf of
 * This is not a fully completed app.
 * Most of the functions are yet be learned and applied. But you will be able to do some basic functionalities in the app. :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+Now let's turn into a!
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
