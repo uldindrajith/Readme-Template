@@ -88,7 +88,7 @@ If you have installed all the things correctly then you can open up one of the e
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Following screenshots of the app will give you an idea about how this app works.
+Following screenshots of the app will give you an idea about how this app works.<br>
 <img src="images/2.png" alt="Logo" width="200" height="400">
 <img src="images/3.png" alt="Logo" width="200" height="400">
 <img src="images/4.png" alt="Logo" width="200" height="400">
