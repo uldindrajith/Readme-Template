@@ -53,53 +53,47 @@ This is a Flutter based Android Application Development project done onbehalf of
 * This is not a fully completed app.
 * Most of the functions are yet be learned and applied. But you will be able to do some basic functionalities in the app. :smile:
 
-Now let's see what is the purpose of the app! This is more like a day to day tracking app where GYM owner can keep record of members, trainers, equipments and financial records. It is not like a complete complex database driven app. This is more like a entry level app 
+Now let's see what is the purpose of the app! This is more like a day to day tracking app where GYM owner can keep record of members, trainers, equipments and financial records. It is not like a complete complex database driven app. This is more like a entry level app which provide basic CRUD activites for the app functions. 
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 </p>
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+These are the main languages and services I used for this project.
 * [Flutter](https://flutter.dev/)
 * [Firebase](https://firebase.google.com/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Following instruction will give you an idea about how you can setup this project locally.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+You need to have following software and languages to start this.
+* Latest Android Studio
+and
+* Visual Studio Code (I prefer to use VS Code along with Android Studio for coding which is much more simple and elegent when coding)
+* Flutter SDK
+
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Install both Android Studio & VS Code or just Android Studio
+2. Install Flutter
 
-
+If you have installed all the things correctly then you can open up one of the editors and start using this project.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Following screenshots of the app will give you an idea about how this app works.
+<img src="images/2.png" alt="Logo" width="200" height="400">
+<img src="images/3.png" alt="Logo" width="200" height="400">
+<img src="images/4.png" alt="Logo" width="200" height="400">
+<img src="images/5.png" alt="Logo" width="200" height="400">
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
