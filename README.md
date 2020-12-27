@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="screenshots/logo.png" alt="Logo" width="80" height="80">
   <h3 align="center">My GYM Manager</h3>
 
   <p align="center">
@@ -39,7 +39,7 @@
 ## About This Project
 
 <p align="center">
-    <img src="images/1.png" alt="Screenshot1" width="200" height="400">
+    <img src="screenshots/1.png" alt="Screenshot1" width="200" height="400">
 </p>
 
 <p align='center'>
@@ -85,18 +85,18 @@ If you have installed all the things correctly then you can open up one of the e
 ## Usage
 
 Following screenshots of the app will give you an idea about how this app works.<br><br>
-<img src="images/2.png" alt="ScreenShot2" width="200" height="400">
-<img src="images/3.png" alt="ScreenShot3" width="200" height="400">
-<img src="images/4.png" alt="ScreenShot4" width="200" height="400">
-<img src="images/5.png" alt="ScreenShot5" width="200" height="400">
-<img src="images/6.png" alt="ScreenShot6" width="200" height="400">
-<img src="images/7.png" alt="ScreenShot7" width="200" height="400">
-<img src="images/8.png" alt="ScreenShot8" width="200" height="400">
-<img src="images/10.png" alt="ScreenShot10" width="200" height="400">
-<img src="images/11.png" alt="ScreenShot11" width="200" height="400">
-<img src="images/12.png" alt="ScreenShot12" width="200" height="400">
-<img src="images/13.png" alt="ScreenShot13" width="200" height="400">
-<img src="images/14.png" alt="ScreenShot14" width="200" height="400">
+<img src="screenshots/2.png" alt="ScreenShot2" width="200" height="400">
+<img src="screenshots/3.png" alt="ScreenShot3" width="200" height="400">
+<img src="screenshots/4.png" alt="ScreenShot4" width="200" height="400">
+<img src="screenshots/5.png" alt="ScreenShot5" width="200" height="400">
+<img src="screenshots/6.png" alt="ScreenShot6" width="200" height="400">
+<img src="screenshots/7.png" alt="ScreenShot7" width="200" height="400">
+<img src="screenshots/8.png" alt="ScreenShot8" width="200" height="400">
+<img src="screenshots/10.png" alt="ScreenShot10" width="200" height="400">
+<img src="screenshots/11.png" alt="ScreenShot11" width="200" height="400">
+<img src="screenshots/12.png" alt="ScreenShot12" width="200" height="400">
+<img src="screenshots/13.png" alt="ScreenShot13" width="200" height="400">
+<img src="screenshots/14.png" alt="ScreenShot14" width="200" height="400">
 
 
 <!-- CONTRIBUTING -->
@@ -127,6 +127,6 @@ Project Link: [https://github.com/MAD-assignment/Gym-Management-System](https://
 * [Udemy Flutter Course for Begineers (Recommended)](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 * [Marcus Ng](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA)
 * [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw)
-* [Images & Icons](https://www.iconfinder.com/families/microworld)
+* [screenshots & Icons](https://www.iconfinder.com/families/microworld)
 * [Stackoverflow](https://stackoverflow.com/)
 
