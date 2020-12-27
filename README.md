@@ -43,7 +43,7 @@
 ## About This Project
 
 <p align="center">
-    <img src="images/1.png" alt="Logo" width="200" height="400">
+    <img src="images/1.png" alt="Screenshot1" width="200" height="400">
 </p>
 
 <p align='center'>
@@ -128,15 +128,9 @@ Project Link: [https://github.com/MAD-assignment/Gym-Management-System](https://
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [Udemy Flutter Course for Begineers (Recommended)](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+* [Marcus Ng](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA)
+* [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw)
+* [Images & Icons](https://www.iconfinder.com/families/microworld)
+* [Stackoverflow](https://stackoverflow.com/)
 
