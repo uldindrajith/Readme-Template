@@ -46,15 +46,17 @@
     <img src="images/1.png" alt="Logo" width="200" height="400">
 </p>
 
+<p align='center'>
 This is a Flutter based Android Application Development project done onbehalf of the Mobile Application Development Module. First of all please bare following things in your mind,    
 
 * This App will demonstrate basic functionalities of what I have learned. (First time Flutter Learner)
 * This is not a fully completed app.
 * Most of the functions are yet be learned and applied. But you will be able to do some basic functionalities in the app. :smile:
 
-Now let's turn into the what this app can do! 
+Now let's see what is the purpose of the app! This is more like a day to day tracking app where GYM owner can keep record of members, trainers, equipments and financial records. It is not like a complete complex database driven app. This is more like a entry level app 
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
+</p>
 
 ### Built With
 
