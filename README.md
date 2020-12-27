@@ -88,11 +88,20 @@ If you have installed all the things correctly then you can open up one of the e
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Following screenshots of the app will give you an idea about how this app works.<br>
-<img src="images/2.png" alt="Logo" width="200" height="400">
-<img src="images/3.png" alt="Logo" width="200" height="400">
-<img src="images/4.png" alt="Logo" width="200" height="400">
-<img src="images/5.png" alt="Logo" width="200" height="400">
+Following screenshots of the app will give you an idea about how this app works.<br><br>
+<img src="images/2.png" alt="ScreenShot2" width="200" height="400">
+<img src="images/3.png" alt="ScreenShot3" width="200" height="400">
+<img src="images/4.png" alt="ScreenShot4" width="200" height="400">
+<img src="images/5.png" alt="ScreenShot5" width="200" height="400">
+<img src="images/6.png" alt="ScreenShot6" width="200" height="400">
+<img src="images/7.png" alt="ScreenShot7" width="200" height="400">
+<img src="images/8.png" alt="ScreenShot8" width="200" height="400">
+<img src="images/9.png" alt="ScreenShot9" width="200" height="400">
+<img src="images/10.png" alt="ScreenShot10" width="200" height="400">
+<img src="images/11.png" alt="ScreenShot11" width="200" height="400">
+<img src="images/12.png" alt="ScreenShot12" width="200" height="400">
+<img src="images/13.png" alt="ScreenShot13" width="200" height="400">
+<img src="images/14.png" alt="ScreenShot14" width="200" height="400">
 
 
 <!-- CONTRIBUTING -->
