@@ -19,7 +19,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">About This Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -45,16 +45,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About This Project
 
-<p align="center">
-![Product Name Screen Shot](./images/logo.png?raw=true)
-</p>
+![Welcome Screen](./images/1.jpg)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This is a Flutter based Android Application Development project done onbehalf of the Mobile Application Development Module. First of all please bare following things in your mind,    
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* This App will demonstrate basic functionalities of what I have learned. (First time Flutter Learner)
+* This is not a fully completed app.
+* Most of the functions are yet be learned and applied. But you will be able to do some basic functionalities in the app. :smile:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
