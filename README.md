@@ -46,7 +46,7 @@
 ## About This Project
 
 <p align="center">
-    <img src="images/1.png" alt="Logo" width="200" height="350">
+    <img src="images/1.png" alt="Logo" width="200" height="400">
 </p>
 
 This is a Flutter based Android Application Development project done onbehalf of the Mobile Application Development Module. First of all please bare following things in your mind,    
