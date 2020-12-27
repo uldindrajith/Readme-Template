@@ -96,7 +96,6 @@ Following screenshots of the app will give you an idea about how this app works.
 <img src="images/6.png" alt="ScreenShot6" width="200" height="400">
 <img src="images/7.png" alt="ScreenShot7" width="200" height="400">
 <img src="images/8.png" alt="ScreenShot8" width="200" height="400">
-<img src="images/9.png" alt="ScreenShot9" width="200" height="400">
 <img src="images/10.png" alt="ScreenShot10" width="200" height="400">
 <img src="images/11.png" alt="ScreenShot11" width="200" height="400">
 <img src="images/12.png" alt="ScreenShot12" width="200" height="400">
