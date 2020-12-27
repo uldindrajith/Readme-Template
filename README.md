@@ -45,7 +45,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About This Project
 
-![Welcome Screen](./images/1.png =100x)
+<p align="center">
+    <img src="images/1.png" alt="Logo" width="80" height="80">
+</p>
 
 This is a Flutter based Android Application Development project done onbehalf of the Mobile Application Development Module. First of all please bare following things in your mind,    
 
